@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <th>Week 3</th>
+    <th>Day</th>
     <th>What's in there?</th>
     <th>Task 1</th>
     <th>Task 2</th>
