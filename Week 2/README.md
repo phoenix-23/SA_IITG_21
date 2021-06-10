@@ -2,7 +2,6 @@
 
 <table>
     <tr>
-        <tr>
         <th>Day</th>
         <th>What's in there?</th>
         <th>Task 1</th>
