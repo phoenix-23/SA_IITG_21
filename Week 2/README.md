@@ -2,7 +2,6 @@
 
 <table>
     <tr>
-        <tr>
         <th>Day</th>
         <th>What's in there?</th>
         <th>Task 1</th>
@@ -11,7 +10,7 @@
     </tr>
     <tr>
         <td>Day 1</td>
-        <td>Often the data we deal with can have <br>various issues like <strong>missing values</strong> and <br><strong>outliers</strong>. We will learn about basic <br>techniques to deal with such issues!</td>
+        <td>Often the data we deal with can have various <br>issues like <strong>missing values</strong> and <strong>outliers</strong>. We <br>will learn about basic techniques to deal <br>with such issues!</td>
         <td>
             <a target="_blank" href='https://www.youtube.com/watch?v=rzR_cKnkD18'>Outlier Analysis <i class="fas fa-external-link-alt"></i></a>
         </td>
@@ -26,7 +25,7 @@
     </tr>
     <tr>
         <td>Day 2</td>
-        <td>Let us just motivate ourselves about <br>Machine Learning, get to know its <br>application, and have a basic <br>understanding of what <strong>Machine <br>Learning</strong> is.</td>
+        <td>Let us just motivate ourselves about Machine <br>Learning, get to know its application, and <br>have a basic understanding of what <strong>Machine <br>Learning</strong> is.</td>
         <td>
             <a target="_blank" href='https://drive.google.com/file/d/1NCgTcIRcGDpeGS5lnnifpvSpB8mr47PP/view'><strong>[Reading]</strong> Chapter 1<br/> <strong>Page No.  1 - 5</strong>  <i class="fas fa-external-link-alt"></i></a>
         </td>
@@ -39,7 +38,7 @@
     </tr>
     <tr>
         <td>Day 3</td>
-        <td>Starting at the grassroots level, we <br>study in depth the simplest ML model <br><strong>Linear Regression</strong>, along with <strong>Cost <br>function</strong> and <strong>Gradient Descent</strong>.</td>
+        <td>Starting at the grassroots level, we study in <br>depth the simplest ML model <strong>Linear<br> Regression</strong>, along with <strong>Cost function</strong> and <br><strong>Gradient Descent</strong>.</td>
         <td>
             <a target="_blank" href='https://towardsdatascience.com/everything-you-need-to-know-about-linear-regression-b791e8f4bd7a'>Linear Regression Blog <i class="fas fa-external-link-alt"></i></a>
         </td>
@@ -52,7 +51,7 @@
     </tr>
     <tr>
         <td>Day 4</td>
-        <td>Wwe study Linear Regression again <br>but this time with <strong>Multiple <br>features</strong>.</td>
+        <td>We study Linear Regression again but this <br>time with <strong>Multiple features</strong>.</td>
         <td>
             <a target="_blank" href='https://www.youtube.com/watch?v=Q4GNLhRtZNc&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=18'>Linear Regression with <br>Multiple Variables<br/> Videos 4.1 - 4.7 <i class="fas fa-external-link-alt"></i></a>
         </td>
